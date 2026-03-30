@@ -56,8 +56,13 @@ Formats:
 
 ## Selected public work
 
-- [gritsevich-com](https://github.com/gritsev/gritsevich-com): personal site and bilingual writing shell
 - [org-aware-agents](https://github.com/gritsev/org-aware-agents): architecture notes on roles, policies, consent, coordination, and org-aware agent surfaces
 - [agent-runner-sandbox](https://github.com/gritsev/agent-runner-sandbox): minimal open-source runner patterns for sandboxing, locks, and delivery validation
+- [gritsevich-com](https://github.com/gritsev/gritsevich-com): personal site and bilingual writing shell
+
+Together these repositories cover:
+- governance-first agent architecture
+- bounded execution and runner patterns
+- public writing and product framing
 
 If you are building AI-native systems and need someone who can combine product sense, architecture, governance, and hands-on implementation, feel free to reach out.
