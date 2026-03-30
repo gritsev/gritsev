@@ -56,6 +56,8 @@ Formats:
 
 ## Selected public work
 
+These public repositories are public-safe extractions from production-backed work around agent governance, execution, retrieval, and rich answers, not side experiments.
+
 - [org-aware-agents](https://github.com/gritsev/org-aware-agents): architecture notes on roles, policies, consent, coordination, and org-aware agent surfaces
 - [agent-code-playbook-kit](https://github.com/gritsev/agent-code-playbook-kit): process IR and deterministic compilation into runtime playbooks
 - [agent-code-runner-sandbox](https://github.com/gritsev/agent-code-runner-sandbox): minimal runner patterns for sandboxing, locks, and delivery validation
