@@ -57,12 +57,18 @@ Formats:
 ## Selected public work
 
 - [org-aware-agents](https://github.com/gritsev/org-aware-agents): architecture notes on roles, policies, consent, coordination, and org-aware agent surfaces
-- [agent-runner-sandbox](https://github.com/gritsev/agent-runner-sandbox): minimal open-source runner patterns for sandboxing, locks, and delivery validation
+- [agent-code-playbook-kit](https://github.com/gritsev/agent-code-playbook-kit): process IR and deterministic compilation into runtime playbooks
+- [agent-code-runner-sandbox](https://github.com/gritsev/agent-code-runner-sandbox): minimal runner patterns for sandboxing, locks, and delivery validation
+- [agent-code-observer-mcp](https://github.com/gritsev/agent-code-observer-mcp): semantic MCP surface and thin observer bridge patterns
+- [agent-code-a2ui-contracts](https://github.com/gritsev/agent-code-a2ui-contracts): direct `A2UI v0.8` contracts, normalization, and schema helpers for rich agent answers
 - [gritsevich-com](https://github.com/gritsev/gritsevich-com): personal site and bilingual writing shell
 
 Together these repositories cover:
 - governance-first agent architecture
+- process authoring and deterministic runtime playbooks
 - bounded execution and runner patterns
+- shared semantic tool surfaces for internal and external agent clients
+- structured final-answer contracts for `AG-UI + A2UI` style interfaces
 - public writing and product framing
 
 If you are building AI-native systems and need someone who can combine product sense, architecture, governance, and hands-on implementation, feel free to reach out.
